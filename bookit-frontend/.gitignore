@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Next.js build folder
+.next/
+
+# Backend build or logs (if any)
+dist/
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode settings
+.vscode/
+
+# Optional: package lock (if you prefer npm to recreate it)
+# package-lock.json
